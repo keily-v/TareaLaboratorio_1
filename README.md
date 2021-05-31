@@ -32,22 +32,36 @@
   
      Código implementado en el repositorio remoto del Docente. 
      
-        int validar(int &n){
-          do{
-          cout<<"Ingrese un numero que desee entre 10 y 20: ";
-          cin >> n;
-          if(n>=10 && n<=20) {
-              cout<<"Numero valido \n";
+            int validar(int &n){
+              do{
+              cout<<"Ingrese un numero que desee entre 10 y 20: ";
+              cin >> n;
+              if(n>=10 && n<=20) {
+                  cout<<"Numero valido \n";
 
-          }
-          else{
-          cout<<"Numero no valido! \n";
-          system("PAUSE");
-          system("cls");
-          }
-          }while ((n<10)||(n>20));
-              return(n);
-         }
+              }
+              else{
+              cout<<"Numero no valido! \n";
+              system("PAUSE");
+              system("cls");
+              }
+              }while ((n<10)||(n>20));
+                  return(n);
+             }
+### Capturas de pantalla del proceso realizado con Git y Github
+
+    1.- Creación de la carpeta en el escritorio añadiendo a Git.
+   <img src="imagenes/1.png" width=400>
+   
+    2.- Clonar el repositorio remoto del Docente y creación de la rama Grupo_6
+   <img src="imagenes/2.png" width=400>
+   
+    3.- Añadir los cambios realizados en la rama Grupo_6  del repositorio remoto del Docente 
+   <img src="imagenes/3.png" width=400>
+    
+    4.- Pull requests enviada al Docente.
+   <img src="imagenes/4.png" width=400>
+        
 
 **CONCLUSIONES.-**
 
