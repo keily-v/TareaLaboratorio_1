@@ -15,23 +15,25 @@
          en conjunto con desarrolladores de otros códigos que estén inscritas en este sitio web.
       3.-Realizar un programa con funciones que valide un número ingresado el cual debe estar en un rango 
          establecido (10 -20), el cual se lo subirá en el repositorio del Docente para evidenciar la 
-         implementación y funcionalidad que tiene Git y Github. 
+         implementación y funcionalidad que tiene Git y Github para comprender el manejo de esta herramienta. 
 **MARCO TEÓRICO.-**
     
    ### ¿Qué es GIT ?
-      El aplicativo Git es un sistema de control de versiones el cual nos va a servir para poder controlar todos los cambios que 
-      se han hecho en dicha aplicación y en el código  es decir que se tiene un control absoluto de todo lo que pasa en el código.
+      El aplicativo Git es un sistema de control de versiones el cual nos va a servir para poder controlar todos 
+      los cambios que se han hecho en dicha aplicación y en el código  es decir que se tiene un control absoluto 
+      de todo lo que pasa en el código.
       
      Características importantes del Git.
      
-   - Rapidez en la gestión de ramas y gestión distribuida es decir que los cambios se importan como ramas adicionales y pueden 
-    ser fusionadas de la misma manera como se hace en la rama local.
+   - Rapidez en la gestión de ramas y gestión distribuida es decir que los cambios se importan como ramas 
+     adicionales y pueden ser fusionadas de la misma manera como se hace en la rama local.
    - Proporcionar un listado de archivos llamados ¨Commits¨ con la fecha en que ha modificado un archivo.
    - Permite poder restablecer los cambios que se han realizado es decir que puede volver atrás en el tiempo.
       
   ### GITHUB 
      
-   - Github es como una red social para programadores; guarda proyectos y cada modificación de las versiones del mismo.
+   - Github es como una red social para programadores; guarda proyectos y cada modificación de las versiones 
+     del mismo.
    - Permite integrar colaboradores, revisar sus aporte y fusionarlos en la versiòn final.  
    - Recupera versiones de manera precisa y la identificación de errores se vuelve fácil.
   
