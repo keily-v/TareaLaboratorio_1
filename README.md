@@ -84,7 +84,7 @@
      y GitHub ya que las mismas son herramientas multifuncionales que nos ayudan a verificar las modificaciones de un archivo 
      que se esté realizando en tiempo real y facilita subir archivos a un repositorio que en este caso el repositorio GitHub.
 
-**RECOMEMDACIONES.-**
+**RECOMENDACIONES.-**
 
    - Para hacer un buen uso de las herramientas Git junto con GitHub es importante tener el conocimiento de cada uno de los 
      comandos necesarios para subir, cargar, desarrollar, entre otras funciones que ofrecen las herramientas con las cuales 
