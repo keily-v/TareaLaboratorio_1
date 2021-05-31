@@ -10,7 +10,12 @@
 **OBJETIVOS.-**
 
       1.-Trabajar de manera colaborativa en proyectos dentro de la herramienta Github como repositorio virtual.
-      2.-Realizar un programa con funciones que valide un número ingresado el cual debe estar en un rango establecido (10 -20).
+      2.-Analizar la herramienta Github que ayuda a los desarrolladores a almacenar y administrar su código al 
+         igual que llevar un control y registro de cualquier cambio realizado con el fin de trabajar y interactuar 
+         en conjunto con desarrolladores de otros códigos que estén inscritas en este sitio web.
+      3.-Realizar un programa con funciones que valide un número ingresado el cual debe estar en un rango 
+         establecido (10 -20), el cual se lo subirá en el repositorio del Docente para evidenciar la 
+         implementación y funcionalidad que tiene Git y Github. 
 **MARCO TEÓRICO.-**
     
    ### ¿Qué es GIT ?
