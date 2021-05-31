@@ -48,7 +48,7 @@
               }while ((n<10)||(n>20));
                   return(n);
              }
-### Capturas de pantalla del proceso realizado con Git y Github
+#### Capturas de pantalla del proceso realizado con Git y Github
 
     1.- Creación de la carpeta en el escritorio añadiendo a Git.
    <img src="imagenes/1.png" width=400>
