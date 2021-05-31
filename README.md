@@ -28,16 +28,7 @@
       -Github es como una red social para programadores; guarda proyectos y cada modificación de las versiones del mismo.
       -Permite integrar colaboradores, revisar sus aporte y fusionarlos al branch principal. 
       -Recupera versiones de manera precisa y la identificación de errores se vuelve fácil.
-      
-     Capturas de pantalla del proceso realizado con Git y Github
-    1.- Creación de la carpeta en el escritorio añadiendo a Git.
-    
-    
-    2.- Clonar el repositorio remoto del Docente y creación de la rama Grupo_6.
-    3.- Añadir los cambios realizados en la rama Grupo_6  del repositorio remoto del Docente,
-    4.- Pull requests enviada al Docente.
-
-
+  
      Código implementado en el repositorio remoto del Docente. 
      
         int validar(int &n){
