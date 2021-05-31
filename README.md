@@ -1,4 +1,4 @@
-# Informe Laboratorio Nro 1- Control de Vesiones
+# Informe Laboratorio Nro 1- Herramienta Github
     Integrantes: Quilumbaquín Lenin
                  Robalino Johanna
                  Jiménez Iván
@@ -10,7 +10,7 @@
 **OBJETIVOS.-**
 
       1.-Trabajar de manera colaborativa en proyectos dentro de la herramienta Github como repositorio virtual.
-      2.-Aplicar los conceptos y comandos en la herramienta Github para trabajar de forma colaborativa. 
+      
 **MARCO TEÓRICO.-**
     
    ### ¿Qué es GIT ?
