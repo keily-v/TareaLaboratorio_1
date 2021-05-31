@@ -21,7 +21,7 @@ MARCO TEÓRICO
  
  
  CÓDIGO IMPLEMENTADO EN EL REPOSITORIO REMOTO DEL DOCENTE
- int validar(int &n){
+    int validar(int &n){
     do{
     cout<<"Ingrese un numero que desee entre 10 y 20: ";
     cin >> n;
