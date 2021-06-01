@@ -95,4 +95,13 @@
      algún problema en el archivo final.
 
 
+**Referencias**
+
+     Git vs Github: ¿Cuál es la Diferencia y cómo Empezar?. (2020). De kinsta website: 
+     https://kinsta.com/es/base-de-conocimiento/git-vs-github/
+
+     Montiel, O.(2021). La guía para principiantes de Git y Github. De freeCodeCamp:
+     https://www.freecodecamp.org/espanol/news/guia-para-principiantes-untitled/
+
+
              
